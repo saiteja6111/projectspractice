@@ -41,5 +41,6 @@ print(f"{name_list[index_value]} won the bid of ${maximum_bid}")
 
 
 
+
     
 
